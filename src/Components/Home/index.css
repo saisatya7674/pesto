@@ -1,0 +1,179 @@
+.maindiv{
+   
+   /* background-color: #1F1E1D; */
+   /* background-image: url("https://i.postimg.cc/bNLndZYg/mike-yukhtenko-wfh8d-Dl-NFOk-unsplash.jpg"); */
+   background-image: url("https://i.postimg.cc/2yZBtyFR/jeremy-bishop-u-Af-ZBP-Gti-A-unsplash.jpg");
+   
+    height: 100vh;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 30px;
+    
+}
+.para{
+    text-align: center;
+    color: red;
+}
+.headingdiv{
+    color: white;
+    font-family: 'Open Sans';
+    font-size: 40px;
+    font-weight: bold;
+    
+}
+.paragraph2{
+    color: white;
+    font-family: serif;
+    font-size: 20px;
+    margin-top: 20px;
+}
+.img2{
+    height:326px;
+    width:734px;
+}
+
+.heading2{
+    color:yellow
+}
+
+.head3{
+    color:#1F1E1D;
+    padding: 20px;
+    font-family: serif;
+    font-weight: 700;
+    font-size: 40px;
+    margin: 60px;
+}
+
+.developer-heading-container{
+    text-align:center
+    
+}
+
+.container{
+    text-align:center;
+    background-color:#d7d6d6;
+    margin: 30px;
+    border-radius: 20px;
+    margin-bottom: 70px;
+}
+.container3{
+    text-align:center;
+    
+}
+
+
+.mr{
+    margin-right:20px;
+    font-size: 13px;
+    font-weight: 600;
+}
+
+/* .banner{
+    text-align:center;
+} */
+
+.imgsize{
+    width:360px;
+    height:450px;
+}
+
+.learn-more{
+    background-color:transparent;
+    border-width: 1px;
+    border-color: white;
+    padding: 10px;
+    border-radius: 15px;
+    display: flex;
+    color: white;
+   font-weight: 500;
+   
+   margin-top: 10px;
+}
+.div2{
+    background-color: #0e1117;
+    text-align: center;
+}
+
+.samp{
+    display: flex;
+}
+.label{
+    color: black;
+    font-family: serif;
+    font-weight: 500;
+    font-size: 16px;
+    
+}
+.labelhead{
+    font-family: sarif;
+    font-weight: 600;
+    font-size: 37px;
+    color:black;
+    padding-top: 20px;
+}
+.lowerdiv{
+    background-color: #1f1e1d;
+    margin: 20px;
+    border-radius: 35px;
+    padding: 30px;
+}
+
+.sample23{
+    color: white;
+    display: flex;
+    flex-direction: row;
+    margin: 10px;
+}
+.fg{
+    display: flex;
+    flex-direction: row;
+}
+.pestohead{
+    color: white;
+    font-family: serif;
+}
+.pestopara{
+    color: white;
+    font-family: serif;
+}
+.span1{
+    background-color:#696969;
+    border-radius: 4px;
+}
+.ul{
+    display: flex;
+    flex-direction: column;
+}
+.sam34{
+    display: flex;
+    flex-direction: column;
+   
+}
+
+.local52{
+    margin-bottom: 20px;
+    font-family: serif;
+    font-size: 18px;
+    color: black;
+}
+.head43{
+    margin-top: 30px;
+}
+
+.head65{
+    color: #1f1e1d;
+    font-family: serif;
+    font-weight: 800;
+    
+}
+
+.seconddiv{
+    background-color: #0e1117;
+    padding: 50px;
+    padding-right: 120px;
+}

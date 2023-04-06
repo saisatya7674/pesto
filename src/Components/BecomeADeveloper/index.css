@@ -1,0 +1,48 @@
+.main-div-2{
+  background-color: #0d2436;
+  text-align: center;
+  padding-bottom: 40px;
+}
+
+.developer-head{
+  color: white;
+  padding-top: 90px;
+  
+  font-family: serif;
+}
+.developer-para{
+  color: white;
+  font-family: serif;
+}
+.form-div{
+  background-color: wheat;
+  margin: 50px;
+  border-radius: 20px;
+  text-align: center;
+  padding: 20px;
+  padding-top: 80px;
+}
+
+.input-div{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  text-align: center;
+}
+.inputs{
+  width: 470px;
+  border-radius: 15px;
+  border-width: 0px;
+  padding: 17px;
+  margin: 10px;
+}
+
+.btn{
+  margin-top: 20px;
+}
+
+.para34{
+  color: rgb(105, 110, 110);
+  font-family: serif;
+  margin-top: 20px;
+}
